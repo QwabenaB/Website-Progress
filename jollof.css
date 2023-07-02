@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+img {
+    margin-left: 500px;   
+}  
+
+#h {
+    font-size: large;
+    color: brown;
+    text-align: center;
+    padding: auto;
+    border: auto solid;
+    margin: auto;
+}
+
+.int1,
+.int2 {
+    font-style: italic;
+    font-size:medium;
+    text-align:justify;
+    padding: 8px;
+    border: 2px solid rgb(199, 176, 176);
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.ing {
+    font-size: large;
+    color: brown;
+    text-align: left;
+    padding: auto;
+    border: auto solid;
+    margin: auto;
+}
+
+.stp {
+    font-size: large;
+    color: brown;
+    text-align: left;
+    position: absolute;
+    left: 800px;
+    top: 520px;
+}
+
+ul {
+    text-align: left;
+    font-size: medium;
+}
+
+ol {
+    text-align:justify;
+    font-size: medium;
+    position: absolute;
+    left: 600px;
+    top: 550px;
+}
